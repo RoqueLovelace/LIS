@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<materias>
+  <materia>
+    <codigo>LIS104</codigo>
+    <nombre>Lenguajes interpretados en el servidor</nombre>
+    <uvs>4</uvs>
+    <nota>8</nota>
+  </materia>
+  <materia>
+    <codigo>LIC</codigo>
+    <nombre>Lenguajes interpretados en el cliente</nombre>
+    <uvs>3</uvs>
+    <nota>10</nota>
+  </materia>
+  <materia>
+    <codigo>CVV</codigo>
+    <nombre>Calculo de varias variables</nombre>
+    <uvs>4</uvs>
+    <nota>9.9</nota>
+  </materia>
+  <materia>
+    <codigo>EDI</codigo>
+    <nombre>Ecuaciones diferencial</nombre>
+    <uvs>4</uvs>
+    <nota>7</nota>
+  </materia>
+  <materia>
+    <codigo>CAI</codigo>
+    <nombre>Calculo integral</nombre>
+    <uvs>4</uvs>
+    <nota>8</nota>
+  </materia>
+  <materia>
+    <codigo>QUG</codigo>
+    <nombre>Quimica general</nombre>
+    <uvs>4</uvs>
+    <nota>8</nota>
+  </materia>
+  
+<materia><codigo>CVV</codigo><nombre>1324</nombre><uvs>2</uvs><nota>1</nota></materia></materias>
