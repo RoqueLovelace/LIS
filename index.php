@@ -142,6 +142,35 @@
                   Discusión 1 - Página de Inicio
                 </a>
               </div>
+
+              <!-- Guía 4 -->
+              <div class="list-group-item" data-bs-toggle="collapse" href="#guia4">
+                Guía 4
+              </div>
+              <div class="collapse submenu" id="guia4">
+                <a href="LAB-4/GUIA4/ejemplo1/moneda.php" class="list-group-item list-group-item-action">
+                  Ejemplo 1 - Conversión de Moneda
+                </a>
+                <a href="LAB-4/GUIA4/ejemplo2/fibonacchi.php" class="list-group-item list-group-item-action">
+                  Ejemplo 2 - Fibonacci
+                </a>
+                <a href="LAB-4/GUIA4/ejemplo3/elmayor.php" class="list-group-item list-group-item-action">
+                  Ejemplo 3 - El Mayor de Tres Números
+                </a>
+                <a href="LAB-4/GUIA4/ejemplo4/destinos.php" class="list-group-item list-group-item-action">
+                  Ejemplo 4 - Selección de Destinos
+                </a>
+              </div>
+
+              <!-- Discusión Guía 4 -->
+              <div class="list-group-item" data-bs-toggle="collapse" href="#discusion4">
+                Discusión Guía 4
+              </div>
+              <div class="collapse submenu" id="discusion4">
+                <a href="LAB-4/Discusion/discusion1/conversion.php" class="list-group-item list-group-item-action">
+                  Discusión 1 - Conversión de Unidades
+                </a>
+              </div>
             </div>
           </div>
         </div>
