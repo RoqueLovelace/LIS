@@ -171,6 +171,38 @@
                   Discusión 1 - Conversión de Unidades
                 </a>
               </div>
+              <!-- Guía 6 -->
+              <div class="list-group-item" data-bs-toggle="collapse" href="#guia6">
+                Guía 6
+              </div>
+              <div class="collapse submenu" id="guia6">
+                <a href="LAB-6/GUIA6/ejemplo1/index.php" class="list-group-item list-group-item-action">
+                  Ejemplo 1 - Autos
+                </a>
+                <a href="LAB-6/GUIA6/ejemplo2/index.php" class="list-group-item list-group-item-action">
+                  Ejemplo 2 - Cuenta de banco
+                </a>
+                <a href="LAB-6/GUIA6/ejemplo3/index.php" class="list-group-item list-group-item-action">
+                  Ejemplo 3 - Empleado
+                </a>
+                <a href="LAB-6/GUIA6/ejemplo4/index.php" class="list-group-item list-group-item-action">
+                  Ejemplo 4 - Coordenadas
+                </a>
+              </div>
+
+              <!-- Discusión Guía 6 -->
+              <div class="list-group-item" data-bs-toggle="collapse" href="#discusion6">
+                Discusión Guía 6
+              </div>
+              <div class="collapse submenu" id="discusion6">
+                <a href="LAB-6/Discusion/ejemplo1/index.php" class="list-group-item list-group-item-action">
+                  Discusión 1 - Autos mod
+                </a>
+                <a href="LAB-6/Discusion/ejemplo3/index.php" class="list-group-item list-group-item-action">
+                  Discusión 2 - Empleados mod
+                </a>
+              </div>
+
             </div>
           </div>
         </div>
